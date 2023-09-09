@@ -5,7 +5,7 @@ const {
   addContact,
 } = require("./contacts");
 
-listContacts();
+// listContacts();
 // // getContactById("05olL7gyvQdWRwgKfg5J6"); //нереальный
 // getContactById("05olLMgyVQdWRwgKfg5J6"); //реальный
 // removeContact();
