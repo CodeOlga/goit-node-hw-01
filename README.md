@@ -2,7 +2,7 @@
 
 node index.js --action list
 
-https://monosnap.com/file/Ap70qprzepTsgOrn4pbdW2kLZS0vsR
+https://monosnap.com/file/AKOkKwKcaIOpRM8rqj5PXLIU3VtdPo
 
 # Получаем контакт по id - выводим в консоль объект контакта или null, если контакта с таким id не существует.
 
