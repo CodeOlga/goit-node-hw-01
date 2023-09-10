@@ -1,22 +1,22 @@
-# Получаем и выводим весь список контактов в виде таблицы (console.table)
+# Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
 node index.js --action list
 
 https://monosnap.com/file/AKOkKwKcaIOpRM8rqj5PXLIU3VtdPo
 
-# Получаем контакт по id - выводим в консоль объект контакта или null, если контакта с таким id не существует.
+# Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує
 
 node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
 
 https://monosnap.com/file/VIjCCX4ovBgD9FlZuCYfNiW4gIKnL7
 
-# Добавляем контакт и выводим в консоль созданный контакт
+# Додаємо контакт та виводимо в консоль об'єкт новоствореного контакту
 
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 
 https://monosnap.com/file/mY12JFxbat6Z9bE3cDASBOINdF0p59
 
-# Удаляем контакт и выводим в консоль удаленный контакт или null, если контакта с таким id не существует.
+# Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує
 
 node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 
